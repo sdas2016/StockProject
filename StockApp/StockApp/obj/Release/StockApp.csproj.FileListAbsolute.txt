@@ -1,0 +1,6 @@
+C:\Siffon_Workspace\StockProject\StockProject\StockApp\StockApp\bin\Release\StockApp.exe.config
+C:\Siffon_Workspace\StockProject\StockProject\StockApp\StockApp\bin\Release\StockApp.exe
+C:\Siffon_Workspace\StockProject\StockProject\StockApp\StockApp\bin\Release\StockApp.pdb
+C:\Siffon_Workspace\StockProject\StockProject\StockApp\StockApp\obj\Release\StockApp.csprojResolveAssemblyReference.cache
+C:\Siffon_Workspace\StockProject\StockProject\StockApp\StockApp\obj\Release\StockApp.exe
+C:\Siffon_Workspace\StockProject\StockProject\StockApp\StockApp\obj\Release\StockApp.pdb

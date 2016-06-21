@@ -1,0 +1,12 @@
+C:\Users\siffondas\Documents\MyPers_docs\StockProject\StockApp\StockApp\bin\Debug\StockApp.exe.config
+C:\Users\siffondas\Documents\MyPers_docs\StockProject\StockApp\StockApp\bin\Debug\StockApp.exe
+C:\Users\siffondas\Documents\MyPers_docs\StockProject\StockApp\StockApp\bin\Debug\StockApp.pdb
+C:\Users\siffondas\Documents\MyPers_docs\StockProject\StockApp\StockApp\obj\Debug\StockApp.csprojResolveAssemblyReference.cache
+C:\Users\siffondas\Documents\MyPers_docs\StockProject\StockApp\StockApp\obj\Debug\StockApp.exe
+C:\Users\siffondas\Documents\MyPers_docs\StockProject\StockApp\StockApp\obj\Debug\StockApp.pdb
+C:\Siffon_Workspace\StockProject\StockProject\StockApp\StockApp\bin\Debug\StockApp.exe.config
+C:\Siffon_Workspace\StockProject\StockProject\StockApp\StockApp\bin\Debug\StockApp.exe
+C:\Siffon_Workspace\StockProject\StockProject\StockApp\StockApp\bin\Debug\StockApp.pdb
+C:\Siffon_Workspace\StockProject\StockProject\StockApp\StockApp\obj\Debug\StockApp.csprojResolveAssemblyReference.cache
+C:\Siffon_Workspace\StockProject\StockProject\StockApp\StockApp\obj\Debug\StockApp.exe
+C:\Siffon_Workspace\StockProject\StockProject\StockApp\StockApp\obj\Debug\StockApp.pdb
